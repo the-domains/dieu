@@ -1,0 +1,14 @@
+layout_spectrum: 0.2528843260370195
+typography_spectrum: 0.5859781166072935
+color:
+  brandStrength: 0.07293620426207781
+  lightness: 0.9404154510702938
+  saturation: 0.6922074416652322
+  rhythmicContrast: 0.619438354158774
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: dieu
